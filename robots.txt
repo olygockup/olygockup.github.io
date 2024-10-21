@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olygockup.github.io/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/app/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/assets/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/css/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/includes/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/item/olygockup.txt.gz
+Sitemap: https://olygockup.github.io/src/olygockup.txt.gz
